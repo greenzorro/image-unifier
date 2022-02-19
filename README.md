@@ -10,7 +10,7 @@ Watch the example video for size unifying below:
 
 https://greenzorro.github.io/image-unifier/example.mp4
 
-The other script for size limiting works in a similar way. There is no need for another example video.
+The other script for size limiting works in a similar way. There is no need for another example video, I guess.
 
 Simply download ZIP to try them out.
 
