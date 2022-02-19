@@ -13,9 +13,9 @@ jpgSaveOptions.quality = 12;
 
 while (documents.length > 0) {
 	var currentDoc = app.activeDocument;
+	currentDoc.resizeImage(undefined, undefined, 72, ResampleMethod.NONE);
 	var currentWidth = currentDoc.width;
 	var currentHeight = currentDoc.height;
-	currentDoc.resizeImage(undefined, undefined, 72, ResampleMethod.NONE);
 	if (currentWidth/currentHeight > ratio) {
 		currentDoc.resizeImage(undefined, targetHeight);
 	}
