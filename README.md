@@ -12,6 +12,8 @@ The other script for size limiting works in a similar way. There is no need for 
 
 Simply download ZIP to try them out.
 
+---
+
 自制一些Photoshop脚本，可用于缩放和裁切图片，能把图片设置为统一大小，或把太大的图片缩放到限定的宽或高。
 
 裁切时，会保留图片中央区域。
