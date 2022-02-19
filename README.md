@@ -24,6 +24,6 @@ Simply download ZIP to try them out.
 
 https://greenzorro.github.io/image-unifier/example.mp4
 
-另一个脚本用法类似，就不录视频了。
+另一个脚本用法类似，就不录视频了吧。
 
 直接下载ZIP试试吧。
