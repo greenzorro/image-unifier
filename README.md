@@ -4,7 +4,7 @@ Some Photoshop scripts to resize and crop a set of images to a certain size, or 
 
 Central area of each image is kept while cropping.
 
-PS统一图片尺寸.jsx is for unifying. PS限定图片最大宽或高.jsx is for setting maximum width or height.
+PS统一图片尺寸-裁剪.jsx and 统一图片尺寸-留白.jsx are for unifying. PS限定图片最大宽或高.jsx is for setting maximum width or height.
 
 Watch the example video for size unifying below:
 
