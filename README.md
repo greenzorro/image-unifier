@@ -27,3 +27,7 @@ https://greenzorro.github.io/image-unifier/example.mp4
 其他脚本用法类似，就不录视频了吧。
 
 直接下载ZIP试试吧。
+
+---
+
+Created by [Victor_42](https://victor42.work/)
